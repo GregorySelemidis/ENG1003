@@ -1,4 +1,4 @@
-// Code for the main app page (locations list).
+// Code for the main app page (locations list)
 
 // This is sample code to demonstrate navigation.
 // You need not use it for final app.
